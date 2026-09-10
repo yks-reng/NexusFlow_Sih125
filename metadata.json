@@ -1,0 +1,10 @@
+{
+  "name": "Remix NexusFlow",
+  "description": "Smart IoT water purification and real-time monitoring system for ESP32 with dual-stage sensor tracking, automated safety diversion, filter health diagnostics, and AquaAI water quality assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
